@@ -1,0 +1,5 @@
+BOT_TOKEN = '<TOKEN>'
+PROXY = 'socks5://telegram:telegram@qcpfo.tgproxy.me:1080'
+CURRENCIES_BASE_URL = 'https://api.exchangeratesapi.io/latest'
+TELEGRAM_URL = 'https://api.telegram.org/bot'
+URL = TELEGRAM_URL + BOT_TOKEN + '/'
